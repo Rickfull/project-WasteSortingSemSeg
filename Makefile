@@ -1,6 +1,7 @@
 .PHONY: print_requirements
 
 action:
-	pip freeze > requirements.txt
+	pip install pipreqs
+	pipreqs .
 	@echo "Requirements printed to requirements.txt"
 
