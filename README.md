@@ -15,7 +15,7 @@ model.py contains the model definition of ENet. To train on newer models such as
 Changing from Binary Segmentation to Instance Segmentation the validate function of train.py and dataloader class resortit needs to be modified accordingly.
 Scripts to calculate FLOPS and # of trainable model parameters.
 
-
+ciao
 
 
 
